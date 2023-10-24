@@ -1,0 +1,1107 @@
+[Date: 24.10.2023 16:09:22 Ver: 4.5.0.0]
+Enabled
+
+[Date: 24.10.2023 16:09:59 Ver: 4.5.0.0]
+OnMonitorsChangeInferred (DisplaySettingsWatcher 1)
+
+[Date: 24.10.2023 16:09:59 Ver: 4.5.0.0]
+ScanAsync [24.10.2023 16:09:59]
+{
+  "Items": [
+    {
+      "Type": "UnreachableMonitorItem",
+      "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+      "Description": "2269W",
+      "DisplayIndex": 1,
+      "MonitorIndex": 0,
+      "MonitorRect": Empty,
+      "IsInternal": false,
+      "IsReachable": false,
+      "IsBrightnessSupported": false,
+      "IsContrastSupported": false,
+      "IsPrecleared": false,
+      "Brightness": -1,
+      "BrightnessSystemAdjusted": -1,
+      "Contrast": -1
+    }
+  ],
+  "Monitors": [
+    {
+      "Item": {
+        "Type": "UnreachableMonitorItem",
+        "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+        "Description": "2269W",
+        "DisplayIndex": 1,
+        "MonitorIndex": 0,
+        "MonitorRect": Empty,
+        "IsInternal": false,
+        "IsReachable": false,
+        "IsBrightnessSupported": false,
+        "IsContrastSupported": false,
+        "IsPrecleared": false,
+        "Brightness": -1,
+        "BrightnessSystemAdjusted": -1,
+        "Contrast": -1
+      },
+      "Name": "2269W",
+      "IsUnison": false,
+      "IsControllable": false,
+      "IsConfirmed": false,
+      "ControllableCount": 3,
+      "IsByKey": false,
+      "IsSelected": true,
+      "IsTarget": true
+    }
+  ]
+}
+
+[Date: 24.10.2023 16:10:03 Ver: 4.5.0.0]
+OnMonitorsChangeInferred (DisplaySettingsWatcher 2)
+
+[Date: 24.10.2023 16:10:03 Ver: 4.5.0.0]
+ScanAsync [24.10.2023 16:10:03]
+{
+  "Items": [
+    {
+      "Type": "UnreachableMonitorItem",
+      "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+      "Description": "2269W",
+      "DisplayIndex": 1,
+      "MonitorIndex": 0,
+      "MonitorRect": Empty,
+      "IsInternal": false,
+      "IsReachable": false,
+      "IsBrightnessSupported": false,
+      "IsContrastSupported": false,
+      "IsPrecleared": false,
+      "Brightness": -1,
+      "BrightnessSystemAdjusted": -1,
+      "Contrast": -1
+    }
+  ],
+  "Monitors": [
+    {
+      "Item": {
+        "Type": "UnreachableMonitorItem",
+        "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+        "Description": "2269W",
+        "DisplayIndex": 1,
+        "MonitorIndex": 0,
+        "MonitorRect": Empty,
+        "IsInternal": false,
+        "IsReachable": false,
+        "IsBrightnessSupported": false,
+        "IsContrastSupported": false,
+        "IsPrecleared": false,
+        "Brightness": -1,
+        "BrightnessSystemAdjusted": -1,
+        "Contrast": -1
+      },
+      "Name": "2269W",
+      "IsUnison": false,
+      "IsControllable": false,
+      "IsConfirmed": false,
+      "ControllableCount": 3,
+      "IsByKey": false,
+      "IsSelected": true,
+      "IsTarget": true
+    }
+  ]
+}
+
+[Date: 24.10.2023 16:10:08 Ver: 4.5.0.0]
+OnMonitorsChangeInferred (DisplaySettingsWatcher 3)
+
+[Date: 24.10.2023 16:10:08 Ver: 4.5.0.0]
+ScanAsync [24.10.2023 16:10:08]
+{
+  "Items": [
+    {
+      "Type": "UnreachableMonitorItem",
+      "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+      "Description": "2269W",
+      "DisplayIndex": 1,
+      "MonitorIndex": 0,
+      "MonitorRect": Empty,
+      "IsInternal": false,
+      "IsReachable": false,
+      "IsBrightnessSupported": false,
+      "IsContrastSupported": false,
+      "IsPrecleared": false,
+      "Brightness": -1,
+      "BrightnessSystemAdjusted": -1,
+      "Contrast": -1
+    }
+  ],
+  "Monitors": [
+    {
+      "Item": {
+        "Type": "UnreachableMonitorItem",
+        "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+        "Description": "2269W",
+        "DisplayIndex": 1,
+        "MonitorIndex": 0,
+        "MonitorRect": Empty,
+        "IsInternal": false,
+        "IsReachable": false,
+        "IsBrightnessSupported": false,
+        "IsContrastSupported": false,
+        "IsPrecleared": false,
+        "Brightness": -1,
+        "BrightnessSystemAdjusted": -1,
+        "Contrast": -1
+      },
+      "Name": "2269W",
+      "IsUnison": false,
+      "IsControllable": false,
+      "IsConfirmed": false,
+      "ControllableCount": 3,
+      "IsByKey": false,
+      "IsSelected": true,
+      "IsTarget": true
+    }
+  ]
+}
+
+[Date: 24.10.2023 16:10:18 Ver: 4.5.0.0]
+OnMonitorsChangeInferred (DisplaySettingsWatcher 4)
+
+[Date: 24.10.2023 16:10:18 Ver: 4.5.0.0]
+ScanAsync [24.10.2023 16:10:18]
+{
+  "Items": [
+    {
+      "Type": "UnreachableMonitorItem",
+      "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+      "Description": "2269W",
+      "DisplayIndex": 1,
+      "MonitorIndex": 0,
+      "MonitorRect": Empty,
+      "IsInternal": false,
+      "IsReachable": false,
+      "IsBrightnessSupported": false,
+      "IsContrastSupported": false,
+      "IsPrecleared": false,
+      "Brightness": -1,
+      "BrightnessSystemAdjusted": -1,
+      "Contrast": -1
+    }
+  ],
+  "Monitors": [
+    {
+      "Item": {
+        "Type": "UnreachableMonitorItem",
+        "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+        "Description": "2269W",
+        "DisplayIndex": 1,
+        "MonitorIndex": 0,
+        "MonitorRect": Empty,
+        "IsInternal": false,
+        "IsReachable": false,
+        "IsBrightnessSupported": false,
+        "IsContrastSupported": false,
+        "IsPrecleared": false,
+        "Brightness": -1,
+        "BrightnessSystemAdjusted": -1,
+        "Contrast": -1
+      },
+      "Name": "2269W",
+      "IsUnison": false,
+      "IsControllable": false,
+      "IsConfirmed": false,
+      "ControllableCount": 3,
+      "IsByKey": false,
+      "IsSelected": true,
+      "IsTarget": true
+    }
+  ]
+}
+
+[Date: 24.10.2023 16:10:22 Ver: 4.5.0.0]
+OnMonitorsChangeInferred (DisplaySettingsWatcher 1)
+
+[Date: 24.10.2023 16:10:23 Ver: 4.5.0.0]
+ScanAsync [24.10.2023 16:10:22]
+{
+  "Items": [
+    {
+      "Type": "UnreachableMonitorItem",
+      "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+      "Description": "2269W",
+      "DisplayIndex": 1,
+      "MonitorIndex": 0,
+      "MonitorRect": Empty,
+      "IsInternal": false,
+      "IsReachable": false,
+      "IsBrightnessSupported": false,
+      "IsContrastSupported": false,
+      "IsPrecleared": false,
+      "Brightness": -1,
+      "BrightnessSystemAdjusted": -1,
+      "Contrast": -1
+    },
+    {
+      "Type": "UnreachableMonitorItem",
+      "DeviceInstanceId": "DISPLAY\XMI3444\5&1e6877a7&0&UID4357",
+      "Description": "Mi Monitor",
+      "DisplayIndex": 2,
+      "MonitorIndex": 0,
+      "MonitorRect": Empty,
+      "IsInternal": false,
+      "IsReachable": false,
+      "IsBrightnessSupported": false,
+      "IsContrastSupported": false,
+      "IsPrecleared": false,
+      "Brightness": -1,
+      "BrightnessSystemAdjusted": -1,
+      "Contrast": -1
+    }
+  ],
+  "Monitors": [
+    {
+      "Item": {
+        "Type": "UnreachableMonitorItem",
+        "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+        "Description": "2269W",
+        "DisplayIndex": 1,
+        "MonitorIndex": 0,
+        "MonitorRect": Empty,
+        "IsInternal": false,
+        "IsReachable": false,
+        "IsBrightnessSupported": false,
+        "IsContrastSupported": false,
+        "IsPrecleared": false,
+        "Brightness": -1,
+        "BrightnessSystemAdjusted": -1,
+        "Contrast": -1
+      },
+      "Name": "2269W",
+      "IsUnison": false,
+      "IsControllable": false,
+      "IsConfirmed": false,
+      "ControllableCount": 3,
+      "IsByKey": false,
+      "IsSelected": true,
+      "IsTarget": true
+    },
+    {
+      "Item": {
+        "Type": "UnreachableMonitorItem",
+        "DeviceInstanceId": "DISPLAY\XMI3444\5&1e6877a7&0&UID4357",
+        "Description": "Mi Monitor",
+        "DisplayIndex": 2,
+        "MonitorIndex": 0,
+        "MonitorRect": Empty,
+        "IsInternal": false,
+        "IsReachable": false,
+        "IsBrightnessSupported": false,
+        "IsContrastSupported": false,
+        "IsPrecleared": false,
+        "Brightness": -1,
+        "BrightnessSystemAdjusted": -1,
+        "Contrast": -1
+      },
+      "Name": "Mi Monitor",
+      "IsUnison": false,
+      "IsControllable": false,
+      "IsConfirmed": false,
+      "ControllableCount": 3,
+      "IsByKey": false,
+      "IsSelected": false,
+      "IsTarget": true
+    }
+  ]
+}
+
+[Date: 24.10.2023 16:10:26 Ver: 4.5.0.0]
+OnMonitorsChangeInferred (DisplaySettingsWatcher 2)
+
+[Date: 24.10.2023 16:10:28 Ver: 4.5.0.0]
+ScanAsync [24.10.2023 16:10:26]
+{
+  "Items": [
+    {
+      "Type": "DdcMonitorItem",
+      "DeviceInstanceId": "DISPLAY\XMI3444\5&1e6877a7&0&UID4357",
+      "Description": "Mi Monitor",
+      "DisplayIndex": 2,
+      "MonitorIndex": 0,
+      "MonitorRect": 0;0;3440;1440,
+      "IsInternal": false,
+      "IsReachable": true,
+      "IsBrightnessSupported": true,
+      "IsContrastSupported": true,
+      "IsPrecleared": false,
+      "Brightness": -1,
+      "BrightnessSystemAdjusted": -1,
+      "Contrast": -1
+    },
+    {
+      "Type": "UnreachableMonitorItem",
+      "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+      "Description": "2269W",
+      "DisplayIndex": 1,
+      "MonitorIndex": 0,
+      "MonitorRect": Empty,
+      "IsInternal": false,
+      "IsReachable": false,
+      "IsBrightnessSupported": false,
+      "IsContrastSupported": false,
+      "IsPrecleared": false,
+      "Brightness": -1,
+      "BrightnessSystemAdjusted": -1,
+      "Contrast": -1
+    }
+  ],
+  "Monitors": [
+    {
+      "Item": {
+        "Type": "UnreachableMonitorItem",
+        "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+        "Description": "2269W",
+        "DisplayIndex": 1,
+        "MonitorIndex": 0,
+        "MonitorRect": Empty,
+        "IsInternal": false,
+        "IsReachable": false,
+        "IsBrightnessSupported": false,
+        "IsContrastSupported": false,
+        "IsPrecleared": false,
+        "Brightness": -1,
+        "BrightnessSystemAdjusted": -1,
+        "Contrast": -1
+      },
+      "Name": "2269W",
+      "IsUnison": false,
+      "IsControllable": false,
+      "IsConfirmed": false,
+      "ControllableCount": 3,
+      "IsByKey": false,
+      "IsSelected": true,
+      "IsTarget": false
+    },
+    {
+      "Item": {
+        "Type": "DdcMonitorItem",
+        "DeviceInstanceId": "DISPLAY\XMI3444\5&1e6877a7&0&UID4357",
+        "Description": "Mi Monitor",
+        "DisplayIndex": 2,
+        "MonitorIndex": 0,
+        "MonitorRect": 0;0;3440;1440,
+        "IsInternal": false,
+        "IsReachable": true,
+        "IsBrightnessSupported": true,
+        "IsContrastSupported": true,
+        "IsPrecleared": false,
+        "Brightness": 80,
+        "BrightnessSystemAdjusted": -1,
+        "Contrast": -1
+      },
+      "Name": "Mi Monitor",
+      "IsUnison": false,
+      "IsControllable": true,
+      "IsConfirmed": true,
+      "ControllableCount": 5,
+      "IsByKey": false,
+      "IsSelected": false,
+      "IsTarget": true
+    }
+  ]
+}
+
+[Date: 24.10.2023 16:10:31 Ver: 4.5.0.0]
+OnMonitorsChangeInferred (DisplaySettingsWatcher 3)
+
+[Date: 24.10.2023 16:10:33 Ver: 4.5.0.0]
+ScanAsync [24.10.2023 16:10:31]
+{
+  "Items": [
+    {
+      "Type": "DdcMonitorItem",
+      "DeviceInstanceId": "DISPLAY\XMI3444\5&1e6877a7&0&UID4357",
+      "Description": "Mi Monitor",
+      "DisplayIndex": 2,
+      "MonitorIndex": 0,
+      "MonitorRect": 0;0;3440;1440,
+      "IsInternal": false,
+      "IsReachable": true,
+      "IsBrightnessSupported": true,
+      "IsContrastSupported": true,
+      "IsPrecleared": false,
+      "Brightness": -1,
+      "BrightnessSystemAdjusted": -1,
+      "Contrast": -1
+    },
+    {
+      "Type": "UnreachableMonitorItem",
+      "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+      "Description": "2269W",
+      "DisplayIndex": 1,
+      "MonitorIndex": 0,
+      "MonitorRect": Empty,
+      "IsInternal": false,
+      "IsReachable": false,
+      "IsBrightnessSupported": false,
+      "IsContrastSupported": false,
+      "IsPrecleared": false,
+      "Brightness": -1,
+      "BrightnessSystemAdjusted": -1,
+      "Contrast": -1
+    }
+  ],
+  "Monitors": [
+    {
+      "Item": {
+        "Type": "UnreachableMonitorItem",
+        "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+        "Description": "2269W",
+        "DisplayIndex": 1,
+        "MonitorIndex": 0,
+        "MonitorRect": Empty,
+        "IsInternal": false,
+        "IsReachable": false,
+        "IsBrightnessSupported": false,
+        "IsContrastSupported": false,
+        "IsPrecleared": false,
+        "Brightness": -1,
+        "BrightnessSystemAdjusted": -1,
+        "Contrast": -1
+      },
+      "Name": "2269W",
+      "IsUnison": false,
+      "IsControllable": false,
+      "IsConfirmed": false,
+      "ControllableCount": 3,
+      "IsByKey": false,
+      "IsSelected": true,
+      "IsTarget": false
+    },
+    {
+      "Item": {
+        "Type": "DdcMonitorItem",
+        "DeviceInstanceId": "DISPLAY\XMI3444\5&1e6877a7&0&UID4357",
+        "Description": "Mi Monitor",
+        "DisplayIndex": 2,
+        "MonitorIndex": 0,
+        "MonitorRect": 0;0;3440;1440,
+        "IsInternal": false,
+        "IsReachable": true,
+        "IsBrightnessSupported": true,
+        "IsContrastSupported": true,
+        "IsPrecleared": false,
+        "Brightness": 80,
+        "BrightnessSystemAdjusted": -1,
+        "Contrast": -1
+      },
+      "Name": "Mi Monitor",
+      "IsUnison": false,
+      "IsControllable": true,
+      "IsConfirmed": true,
+      "ControllableCount": 5,
+      "IsByKey": false,
+      "IsSelected": true,
+      "IsTarget": true
+    }
+  ]
+}
+
+[Date: 24.10.2023 16:10:41 Ver: 4.5.0.0]
+OnMonitorsChangeInferred (DisplaySettingsWatcher 4)
+
+[Date: 24.10.2023 16:10:43 Ver: 4.5.0.0]
+ScanAsync [24.10.2023 16:10:41]
+{
+  "Items": [
+    {
+      "Type": "DdcMonitorItem",
+      "DeviceInstanceId": "DISPLAY\XMI3444\5&1e6877a7&0&UID4357",
+      "Description": "Mi Monitor",
+      "DisplayIndex": 2,
+      "MonitorIndex": 0,
+      "MonitorRect": 0;0;3440;1440,
+      "IsInternal": false,
+      "IsReachable": true,
+      "IsBrightnessSupported": true,
+      "IsContrastSupported": true,
+      "IsPrecleared": false,
+      "Brightness": -1,
+      "BrightnessSystemAdjusted": -1,
+      "Contrast": -1
+    },
+    {
+      "Type": "UnreachableMonitorItem",
+      "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+      "Description": "2269W",
+      "DisplayIndex": 1,
+      "MonitorIndex": 0,
+      "MonitorRect": Empty,
+      "IsInternal": false,
+      "IsReachable": false,
+      "IsBrightnessSupported": false,
+      "IsContrastSupported": false,
+      "IsPrecleared": false,
+      "Brightness": -1,
+      "BrightnessSystemAdjusted": -1,
+      "Contrast": -1
+    }
+  ],
+  "Monitors": [
+    {
+      "Item": {
+        "Type": "UnreachableMonitorItem",
+        "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+        "Description": "2269W",
+        "DisplayIndex": 1,
+        "MonitorIndex": 0,
+        "MonitorRect": Empty,
+        "IsInternal": false,
+        "IsReachable": false,
+        "IsBrightnessSupported": false,
+        "IsContrastSupported": false,
+        "IsPrecleared": false,
+        "Brightness": -1,
+        "BrightnessSystemAdjusted": -1,
+        "Contrast": -1
+      },
+      "Name": "2269W",
+      "IsUnison": false,
+      "IsControllable": false,
+      "IsConfirmed": false,
+      "ControllableCount": 3,
+      "IsByKey": false,
+      "IsSelected": true,
+      "IsTarget": false
+    },
+    {
+      "Item": {
+        "Type": "DdcMonitorItem",
+        "DeviceInstanceId": "DISPLAY\XMI3444\5&1e6877a7&0&UID4357",
+        "Description": "Mi Monitor",
+        "DisplayIndex": 2,
+        "MonitorIndex": 0,
+        "MonitorRect": 0;0;3440;1440,
+        "IsInternal": false,
+        "IsReachable": true,
+        "IsBrightnessSupported": true,
+        "IsContrastSupported": true,
+        "IsPrecleared": false,
+        "Brightness": 61,
+        "BrightnessSystemAdjusted": -1,
+        "Contrast": -1
+      },
+      "Name": "Mi Monitor",
+      "IsUnison": false,
+      "IsControllable": true,
+      "IsConfirmed": true,
+      "ControllableCount": 5,
+      "IsByKey": false,
+      "IsSelected": true,
+      "IsTarget": true
+    }
+  ]
+}
+
+[Date: 24.10.2023 16:10:50 Ver: 4.5.0.0]
+OnMonitorsChangeInferred (DisplaySettingsWatcher 1)
+
+[Date: 24.10.2023 16:10:50 Ver: 4.5.0.0]
+ScanAsync [24.10.2023 16:10:50]
+{
+  "Items": [
+    {
+      "Type": "UnreachableMonitorItem",
+      "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+      "Description": "2269W",
+      "DisplayIndex": 1,
+      "MonitorIndex": 0,
+      "MonitorRect": Empty,
+      "IsInternal": false,
+      "IsReachable": false,
+      "IsBrightnessSupported": false,
+      "IsContrastSupported": false,
+      "IsPrecleared": false,
+      "Brightness": -1,
+      "BrightnessSystemAdjusted": -1,
+      "Contrast": -1
+    }
+  ],
+  "Monitors": [
+    {
+      "Item": {
+        "Type": "UnreachableMonitorItem",
+        "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+        "Description": "2269W",
+        "DisplayIndex": 1,
+        "MonitorIndex": 0,
+        "MonitorRect": Empty,
+        "IsInternal": false,
+        "IsReachable": false,
+        "IsBrightnessSupported": false,
+        "IsContrastSupported": false,
+        "IsPrecleared": false,
+        "Brightness": -1,
+        "BrightnessSystemAdjusted": -1,
+        "Contrast": -1
+      },
+      "Name": "2269W",
+      "IsUnison": false,
+      "IsControllable": false,
+      "IsConfirmed": false,
+      "ControllableCount": 3,
+      "IsByKey": false,
+      "IsSelected": true,
+      "IsTarget": true
+    }
+  ]
+}
+
+[Date: 24.10.2023 16:10:54 Ver: 4.5.0.0]
+OnMonitorsChangeInferred (DisplaySettingsWatcher 2)
+
+[Date: 24.10.2023 16:10:54 Ver: 4.5.0.0]
+ScanAsync [24.10.2023 16:10:54]
+{
+  "Items": [
+    {
+      "Type": "UnreachableMonitorItem",
+      "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+      "Description": "2269W",
+      "DisplayIndex": 1,
+      "MonitorIndex": 0,
+      "MonitorRect": Empty,
+      "IsInternal": false,
+      "IsReachable": false,
+      "IsBrightnessSupported": false,
+      "IsContrastSupported": false,
+      "IsPrecleared": false,
+      "Brightness": -1,
+      "BrightnessSystemAdjusted": -1,
+      "Contrast": -1
+    }
+  ],
+  "Monitors": [
+    {
+      "Item": {
+        "Type": "UnreachableMonitorItem",
+        "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+        "Description": "2269W",
+        "DisplayIndex": 1,
+        "MonitorIndex": 0,
+        "MonitorRect": Empty,
+        "IsInternal": false,
+        "IsReachable": false,
+        "IsBrightnessSupported": false,
+        "IsContrastSupported": false,
+        "IsPrecleared": false,
+        "Brightness": -1,
+        "BrightnessSystemAdjusted": -1,
+        "Contrast": -1
+      },
+      "Name": "2269W",
+      "IsUnison": false,
+      "IsControllable": false,
+      "IsConfirmed": false,
+      "ControllableCount": 3,
+      "IsByKey": false,
+      "IsSelected": true,
+      "IsTarget": true
+    }
+  ]
+}
+
+[Date: 24.10.2023 16:10:59 Ver: 4.5.0.0]
+OnMonitorsChangeInferred (DisplaySettingsWatcher 3)
+
+[Date: 24.10.2023 16:10:59 Ver: 4.5.0.0]
+ScanAsync [24.10.2023 16:10:59]
+{
+  "Items": [
+    {
+      "Type": "UnreachableMonitorItem",
+      "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+      "Description": "2269W",
+      "DisplayIndex": 1,
+      "MonitorIndex": 0,
+      "MonitorRect": Empty,
+      "IsInternal": false,
+      "IsReachable": false,
+      "IsBrightnessSupported": false,
+      "IsContrastSupported": false,
+      "IsPrecleared": false,
+      "Brightness": -1,
+      "BrightnessSystemAdjusted": -1,
+      "Contrast": -1
+    }
+  ],
+  "Monitors": [
+    {
+      "Item": {
+        "Type": "UnreachableMonitorItem",
+        "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+        "Description": "2269W",
+        "DisplayIndex": 1,
+        "MonitorIndex": 0,
+        "MonitorRect": Empty,
+        "IsInternal": false,
+        "IsReachable": false,
+        "IsBrightnessSupported": false,
+        "IsContrastSupported": false,
+        "IsPrecleared": false,
+        "Brightness": -1,
+        "BrightnessSystemAdjusted": -1,
+        "Contrast": -1
+      },
+      "Name": "2269W",
+      "IsUnison": false,
+      "IsControllable": false,
+      "IsConfirmed": false,
+      "ControllableCount": 3,
+      "IsByKey": false,
+      "IsSelected": true,
+      "IsTarget": true
+    }
+  ]
+}
+
+[Date: 24.10.2023 16:11:09 Ver: 4.5.0.0]
+OnMonitorsChangeInferred (DisplaySettingsWatcher 4)
+
+[Date: 24.10.2023 16:11:09 Ver: 4.5.0.0]
+ScanAsync [24.10.2023 16:11:09]
+{
+  "Items": [
+    {
+      "Type": "UnreachableMonitorItem",
+      "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+      "Description": "2269W",
+      "DisplayIndex": 1,
+      "MonitorIndex": 0,
+      "MonitorRect": Empty,
+      "IsInternal": false,
+      "IsReachable": false,
+      "IsBrightnessSupported": false,
+      "IsContrastSupported": false,
+      "IsPrecleared": false,
+      "Brightness": -1,
+      "BrightnessSystemAdjusted": -1,
+      "Contrast": -1
+    }
+  ],
+  "Monitors": [
+    {
+      "Item": {
+        "Type": "UnreachableMonitorItem",
+        "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+        "Description": "2269W",
+        "DisplayIndex": 1,
+        "MonitorIndex": 0,
+        "MonitorRect": Empty,
+        "IsInternal": false,
+        "IsReachable": false,
+        "IsBrightnessSupported": false,
+        "IsContrastSupported": false,
+        "IsPrecleared": false,
+        "Brightness": -1,
+        "BrightnessSystemAdjusted": -1,
+        "Contrast": -1
+      },
+      "Name": "2269W",
+      "IsUnison": false,
+      "IsControllable": false,
+      "IsConfirmed": false,
+      "ControllableCount": 3,
+      "IsByKey": false,
+      "IsSelected": true,
+      "IsTarget": true
+    }
+  ]
+}
+
+[Date: 24.10.2023 16:31:57 Ver: 4.5.0.0]
+OnMonitorsChangeInferred (DisplaySettingsWatcher 1)
+
+[Date: 24.10.2023 16:31:58 Ver: 4.5.0.0]
+ScanAsync [24.10.2023 16:31:57]
+{
+  "Items": [
+    {
+      "Type": "UnreachableMonitorItem",
+      "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+      "Description": "2269W",
+      "DisplayIndex": 1,
+      "MonitorIndex": 0,
+      "MonitorRect": Empty,
+      "IsInternal": false,
+      "IsReachable": false,
+      "IsBrightnessSupported": false,
+      "IsContrastSupported": false,
+      "IsPrecleared": false,
+      "Brightness": -1,
+      "BrightnessSystemAdjusted": -1,
+      "Contrast": -1
+    },
+    {
+      "Type": "UnreachableMonitorItem",
+      "DeviceInstanceId": "DISPLAY\XMI3444\5&1e6877a7&0&UID4357",
+      "Description": "Mi Monitor",
+      "DisplayIndex": 2,
+      "MonitorIndex": 0,
+      "MonitorRect": Empty,
+      "IsInternal": false,
+      "IsReachable": false,
+      "IsBrightnessSupported": false,
+      "IsContrastSupported": false,
+      "IsPrecleared": false,
+      "Brightness": -1,
+      "BrightnessSystemAdjusted": -1,
+      "Contrast": -1
+    }
+  ],
+  "Monitors": [
+    {
+      "Item": {
+        "Type": "UnreachableMonitorItem",
+        "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+        "Description": "2269W",
+        "DisplayIndex": 1,
+        "MonitorIndex": 0,
+        "MonitorRect": Empty,
+        "IsInternal": false,
+        "IsReachable": false,
+        "IsBrightnessSupported": false,
+        "IsContrastSupported": false,
+        "IsPrecleared": false,
+        "Brightness": -1,
+        "BrightnessSystemAdjusted": -1,
+        "Contrast": -1
+      },
+      "Name": "2269W",
+      "IsUnison": false,
+      "IsControllable": false,
+      "IsConfirmed": false,
+      "ControllableCount": 3,
+      "IsByKey": false,
+      "IsSelected": true,
+      "IsTarget": true
+    },
+    {
+      "Item": {
+        "Type": "UnreachableMonitorItem",
+        "DeviceInstanceId": "DISPLAY\XMI3444\5&1e6877a7&0&UID4357",
+        "Description": "Mi Monitor",
+        "DisplayIndex": 2,
+        "MonitorIndex": 0,
+        "MonitorRect": Empty,
+        "IsInternal": false,
+        "IsReachable": false,
+        "IsBrightnessSupported": false,
+        "IsContrastSupported": false,
+        "IsPrecleared": false,
+        "Brightness": -1,
+        "BrightnessSystemAdjusted": -1,
+        "Contrast": -1
+      },
+      "Name": "Mi Monitor",
+      "IsUnison": false,
+      "IsControllable": false,
+      "IsConfirmed": false,
+      "ControllableCount": 3,
+      "IsByKey": false,
+      "IsSelected": false,
+      "IsTarget": true
+    }
+  ]
+}
+
+[Date: 24.10.2023 16:32:01 Ver: 4.5.0.0]
+OnMonitorsChangeInferred (DisplaySettingsWatcher 2)
+
+[Date: 24.10.2023 16:32:03 Ver: 4.5.0.0]
+ScanAsync [24.10.2023 16:32:01]
+{
+  "Items": [
+    {
+      "Type": "DdcMonitorItem",
+      "DeviceInstanceId": "DISPLAY\XMI3444\5&1e6877a7&0&UID4357",
+      "Description": "Mi Monitor",
+      "DisplayIndex": 2,
+      "MonitorIndex": 0,
+      "MonitorRect": 0;0;3440;1440,
+      "IsInternal": false,
+      "IsReachable": true,
+      "IsBrightnessSupported": true,
+      "IsContrastSupported": true,
+      "IsPrecleared": false,
+      "Brightness": -1,
+      "BrightnessSystemAdjusted": -1,
+      "Contrast": -1
+    },
+    {
+      "Type": "UnreachableMonitorItem",
+      "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+      "Description": "2269W",
+      "DisplayIndex": 1,
+      "MonitorIndex": 0,
+      "MonitorRect": Empty,
+      "IsInternal": false,
+      "IsReachable": false,
+      "IsBrightnessSupported": false,
+      "IsContrastSupported": false,
+      "IsPrecleared": false,
+      "Brightness": -1,
+      "BrightnessSystemAdjusted": -1,
+      "Contrast": -1
+    }
+  ],
+  "Monitors": [
+    {
+      "Item": {
+        "Type": "UnreachableMonitorItem",
+        "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+        "Description": "2269W",
+        "DisplayIndex": 1,
+        "MonitorIndex": 0,
+        "MonitorRect": Empty,
+        "IsInternal": false,
+        "IsReachable": false,
+        "IsBrightnessSupported": false,
+        "IsContrastSupported": false,
+        "IsPrecleared": false,
+        "Brightness": -1,
+        "BrightnessSystemAdjusted": -1,
+        "Contrast": -1
+      },
+      "Name": "2269W",
+      "IsUnison": false,
+      "IsControllable": false,
+      "IsConfirmed": false,
+      "ControllableCount": 3,
+      "IsByKey": false,
+      "IsSelected": true,
+      "IsTarget": false
+    },
+    {
+      "Item": {
+        "Type": "DdcMonitorItem",
+        "DeviceInstanceId": "DISPLAY\XMI3444\5&1e6877a7&0&UID4357",
+        "Description": "Mi Monitor",
+        "DisplayIndex": 2,
+        "MonitorIndex": 0,
+        "MonitorRect": 0;0;3440;1440,
+        "IsInternal": false,
+        "IsReachable": true,
+        "IsBrightnessSupported": true,
+        "IsContrastSupported": true,
+        "IsPrecleared": false,
+        "Brightness": 80,
+        "BrightnessSystemAdjusted": -1,
+        "Contrast": -1
+      },
+      "Name": "Mi Monitor",
+      "IsUnison": false,
+      "IsControllable": true,
+      "IsConfirmed": true,
+      "ControllableCount": 5,
+      "IsByKey": false,
+      "IsSelected": false,
+      "IsTarget": true
+    }
+  ]
+}
+
+[Date: 24.10.2023 16:32:06 Ver: 4.5.0.0]
+OnMonitorsChangeInferred (DisplaySettingsWatcher 3)
+
+[Date: 24.10.2023 16:32:08 Ver: 4.5.0.0]
+ScanAsync [24.10.2023 16:32:06]
+{
+  "Items": [
+    {
+      "Type": "DdcMonitorItem",
+      "DeviceInstanceId": "DISPLAY\XMI3444\5&1e6877a7&0&UID4357",
+      "Description": "Mi Monitor",
+      "DisplayIndex": 2,
+      "MonitorIndex": 0,
+      "MonitorRect": 0;0;3440;1440,
+      "IsInternal": false,
+      "IsReachable": true,
+      "IsBrightnessSupported": true,
+      "IsContrastSupported": true,
+      "IsPrecleared": false,
+      "Brightness": -1,
+      "BrightnessSystemAdjusted": -1,
+      "Contrast": -1
+    },
+    {
+      "Type": "UnreachableMonitorItem",
+      "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+      "Description": "2269W",
+      "DisplayIndex": 1,
+      "MonitorIndex": 0,
+      "MonitorRect": Empty,
+      "IsInternal": false,
+      "IsReachable": false,
+      "IsBrightnessSupported": false,
+      "IsContrastSupported": false,
+      "IsPrecleared": false,
+      "Brightness": -1,
+      "BrightnessSystemAdjusted": -1,
+      "Contrast": -1
+    }
+  ],
+  "Monitors": [
+    {
+      "Item": {
+        "Type": "UnreachableMonitorItem",
+        "DeviceInstanceId": "DISPLAY\AOC2269\5&1e6877a7&0&UID4354",
+        "Description": "2269W",
+        "DisplayIndex": 1,
+        "MonitorIndex": 0,
+        "MonitorRect": Empty,
+        "IsInternal": false,
+        "IsReachable": false,
+        "IsBrightnessSupported": false,
+        "IsContrastSupported": false,
+        "IsPrecleared": false,
+        "Brightness": -1,
+        "BrightnessSystemAdjusted": -1,
+        "Contrast": -1
+      },
+      "Name": "2269W",
+      "IsUnison": false,
+      "IsControllable": false,
+      "IsConfirmed": false,
+      "ControllableCount": 3,
+      "IsByKey": false,
+      "IsSelected": true,
+      "IsTarget": false
+    },
+    {
+      "Item": {
+        "Type": "DdcMonitorItem",
+        "DeviceInstanceId": "DISPLAY\XMI3444\5&1e6877a7&0&UID4357",
+        "Description": "Mi Monitor",
+        "DisplayIndex": 2,
+        "MonitorIndex": 0,
+        "MonitorRect": 0;0;3440;1440,
+        "IsInternal": false,
+        "IsReachable": true,
+        "IsBrightnessSupported": true,
+        "IsContrastSupported": true,
+        "IsPrecleared": false,
+        "Brightness": 80,
+        "BrightnessSystemAdjusted": -1,
+        "Contrast": -1
+      },
+      "Name": "Mi Monitor",
+      "IsUnison": false,
+      "IsControllable": true,
+      "IsConfirmed": true,
+      "ControllableCount": 5,
+      "IsByKey": false,
+      "IsSelected": true,
+      "IsTarget": true
+    }
+  ]
+}
+
